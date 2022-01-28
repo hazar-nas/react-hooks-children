@@ -1,5 +1,9 @@
 import React from "react";
 
+// header kısmı ortak zaten ama bir taraf image
+// bir taraf text ile aynı dizayna sahip
+// children burada onlara karsılık geliyor 
+
 function Container({
   header,
   children,
